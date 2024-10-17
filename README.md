@@ -13,15 +13,7 @@
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **-**
-
-- 📄 Know about my experiences [-](-)
+- 💬 Ask me about **Flutter & Darshan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
