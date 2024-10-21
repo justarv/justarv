@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Nothing**
 
-- 🤝 I’m looking for help with **Nothing**
+- 🤝 I’m looking for help with *Nothing*
 
-- 💬 Ask me about **Flutter & Darshan**
+- 💬 Ask me about *Flutter & Darshan*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
