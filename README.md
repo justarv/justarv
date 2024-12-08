@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, Flutter and Data Analytics**
 
-- 👯 I’m looking to collaborate on **Nothing**
-
-- 🤝 I’m looking for help with *Nothing*
+- 👯 I’m looking to collaborate on **Flutter**
 
 - 💬 Ask me about *Flutter & Darshan*
 
